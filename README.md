@@ -1,50 +1,45 @@
-### Hi there 👋
+### Hello! 👋
 
 I'm **Fridella**! Now how do you pronounce that? Well, say "Friday", change "day" to "della" then put the emphasis on "del". The name *Fridenity* is just a more techy or "cooler" variation of Fridella ig.
-
-I'm also known as *Teammìe* or *Timì*, if you prefer calling me that.
-
-I have no idea how to style a `README.md` file, so, yeah.
 
 <div align="center">
 
 ![RDT_20220424_0658208669006033121090395](https://user-images.githubusercontent.com/43757589/177018124-16b466ec-4303-4ece-be7c-1388c57c8253.jpg)
-![stats](https://github-readme-stats.vercel.app/api?username=Fridenity&theme=dark) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fridenity&theme=dark)
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fridenity&theme=vue)
+
+![stats](https://github-readme-stats.vercel.app/api?username=Fridenity&theme=radical) 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fridenity&theme=radical&layout=compact)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fridenity&theme=radical)
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 </div>
 
-### ⚡ About Me
+### 💖 About Me
 - Master at opening issues and not PRs, because I am too dumb to understand others' code.
 - Any pronouns is fine.
-### 🔭 Current Projects
-- [**Λύρα**](https://github.com/Fridenity/Lyra)
-- [CryptoApp-CORE](https://github.com/Fridenity/CryptoApp-CORE)
-### 🌱 Studying
+### 💎 Current Projects
+[![Λύρα](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=lyra&theme=radical)](https://github.com/lyra-music/lyra)
+[![CryptoApp-CORE](https://github-readme-stats.vercel.app/api/pin/?username=Fridenity&repo=CryptoApp-CORE&theme=radical)](https://github.com/Fridenity/CryptoApp-CORE)
+### 📚 Studying
 ![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-### 💡 Future Plans
+### 🚀 Future Plans
 - [ ] **Λύρα** Rust Rewrite
-### 🤔 Current Needed Help
-- I am looking for more funding money so I can move [**Λύρα**](https://github.com/Fridenity/Lyra) to a better and more performant VPS. Please support me via the links below.
-### 📫 Contacts
-[![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://www.toptal.com/developers/hastebin/yunusakifu.kotlin)
+### 📨 Contacts
+[![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://pastebin.com/KBiVmSTY)
 ![discord](https://dcbadge.vercel.app/api/shield/548850193202675713)
 ### 💰 Support Me
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/teammie0118)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fridenity0777)
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/teammiez)
-### 🌐 Socials
+### 🔗 Socials
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fridenity)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/teammiez/)
-[![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.toptal.com/developers/hastebin/ivumixaboq)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teammiez/)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/teammie0118)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10858898/teamm%c3%ace)
-[![twitter1](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teammie0118)
-[![twitter2](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/_Fridella)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_fridenity0777/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fridenity0777/)
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/fridenity0777)
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=black)](https://www.reddit.com/u/_frydellia0999)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10858898/fridenity0777)
+[![twitter1](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_fridenity0777)
+[![twitter2](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/_frydellia0999)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/teammie0118)
+[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fridenity0777)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5pMgZ5651eUrL5y9ApXhHA)
 
 ---
