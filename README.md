@@ -6,9 +6,9 @@ I'm **Fridella**! Now how do you pronounce that? Well, say "Friday", change "day
 
 ![RDT_20220424_0658208669006033121090395](https://user-images.githubusercontent.com/43757589/177018124-16b466ec-4303-4ece-be7c-1388c57c8253.jpg)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Fridenity&theme=radical) 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fridenity&theme=radical&layout=compact)
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fridenity&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=fridenity0777&theme=radical) 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridenity0777&theme=radical&layout=compact)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fridenity0777&theme=radical)
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 </div>
@@ -18,7 +18,7 @@ I'm **Fridella**! Now how do you pronounce that? Well, say "Friday", change "day
 - Any pronouns is fine.
 ### 💎 Current Projects
 [![Λύρα](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=lyra&theme=radical)](https://github.com/lyra-music/lyra)
-[![CryptoApp-CORE](https://github-readme-stats.vercel.app/api/pin/?username=Fridenity&repo=CryptoApp-CORE&theme=radical)](https://github.com/Fridenity/CryptoApp-CORE)
+[![CryptoApp-CORE](https://github-readme-stats.vercel.app/api/pin/?username=fridenity0777&repo=CryptoApp-CORE&theme=radical)](https://github.com/fridenity0777/CryptoApp-CORE)
 ### 📚 Studying
 ![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ### 🚀 Future Plans
@@ -30,13 +30,13 @@ I'm **Fridella**! Now how do you pronounce that? Well, say "Friday", change "day
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fridenity0777)
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/teammiez)
 ### 🔗 Socials
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fridenity)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_fridenity0777/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fridenity0777/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fridenity0777)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fridenity0777/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fridenity0777/)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/fridenity0777)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=black)](https://www.reddit.com/u/_frydellia0999)
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10858898/fridenity0777)
-[![twitter1](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_fridenity0777)
+[![twitter1](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fridenity0777)
 [![twitter2](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/_frydellia0999)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fridenity0777)
