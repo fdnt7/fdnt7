@@ -15,7 +15,7 @@ I'm **Fridella**! Now how do you pronounce that? Well, say "Friday", change "day
 
 ### 💖 About Me
 - Master at opening issues and not PRs, because I am too dumb to understand others' code.
-- Any pronouns is fine.
+- My pronouns are: `She/They`.
 ### 💎 Current Projects
 [![Λύρα](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=lyra&theme=radical)](https://github.com/lyra-music/lyra)
 [![CryptoApp-CORE](https://github-readme-stats.vercel.app/api/pin/?username=fridenity0777&repo=CryptoApp-CORE&theme=radical)](https://github.com/fridenity0777/CryptoApp-CORE)
