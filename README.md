@@ -1,35 +1,56 @@
-### Hello! 👋
+# Hello! 👋
 
-I'm **Fridella**! Now how do you pronounce that? Well, say "Friday", change "day" to "della" then put the emphasis on "del". The name *Fridenity* is just a more techy or "cooler" variation of Fridella ig.
+My name is **Fridella**<sup>[α](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)</sup>, and my brand name is **Fridenity**<sup>[α](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)</sup>! (often stylized as **`fridenity0777`**<sup>[α](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)</sup>).
 
 <div align="center">
 
-![RDT_20220424_0658208669006033121090395](https://user-images.githubusercontent.com/43757589/177018124-16b466ec-4303-4ece-be7c-1388c57c8253.jpg)
+![niko](assets/niko.jpg)
 
-![stats](https://github-readme-stats.vercel.app/api?username=fridenity0777&theme=radical) 
+![stats](https://github-readme-stats.vercel.app/api?username=fridenity0777&theme=radical)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridenity0777&theme=radical&layout=compact)
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fridenity0777&theme=radical)
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 </div>
 
-### 💖 About Me
-- Master at opening issues and not PRs, because I am too dumb to understand others' code.
-- My pronouns are: `She/They`.
-### 💎 Current Projects
+## 💖 About Me
+
+- **Interests**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
+- **Pronouns**: `She/They`<sup>[β](https://github.com/fridenity0777/fridenity0777#-regarding-me-and-coming-out)</sup>.
+- **Schedule**: I usually sleep very late, most often at 5-6 AM. I wake up at around 2-3 PM.
+- **Pinging**: I prefer receiving DMs instead of a @/mention.
+
+## 💎 Current Projects
+
 [![Λύρα](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=lyra&theme=radical)](https://github.com/lyra-music/lyra)
-[![CryptoApp-CORE](https://github-readme-stats.vercel.app/api/pin/?username=fridenity0777&repo=CryptoApp-CORE&theme=radical)](https://github.com/fridenity0777/CryptoApp-CORE)
-### 📚 Studying
-![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-### 🚀 Future Plans
-- [ ] **Λύρα** Rust Rewrite
-### 📨 Contacts
+[![novalink](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=novalink&theme=radical)](https://github.com/lyra-music/novalink)
+
+## 🚀 Future Plans
+
+- [ ] ⏳ **Λύρα** Rust Rewrite
+
+## 🌱 Current Needed Help
+
+- **Cosplaying Funds**: I've always really loved the craft of cosplaying, but I've never done it myself. So I wanted to try it for the first time by getting myself hands on a premade cosplay clothing, and then I can be more familiar with the craft. Please consider donating to me via the links below! <details>
+  <summary>One of my favourite cosplayer</summary>
+
+  ![pinyin](assets/pinyin.jpeg)
+  <sub>Her name is `pinyin`</sub>
+
+</details>
+
+## 📨 Contacts
+
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://pastebin.com/KBiVmSTY)
 ![discord](https://dcbadge.vercel.app/api/shield/548850193202675713)
-### 💰 Support Me
+
+## 💰 Support Me
+
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fridenity0777)
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/teammiez)
-### 🔗 Socials
+
+## 🔗 Socials
+
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fridenity0777)
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fridenity0777/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fridenity0777/)
@@ -41,6 +62,81 @@ I'm **Fridella**! Now how do you pronounce that? Well, say "Friday", change "day
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fridenity0777)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5pMgZ5651eUrL5y9ApXhHA)
+
+### 🪪 Regarding my name(s)
+
+<details>
+  <summary>👁️ View</summary>
+
+### Etymology
+
+> ***Fridenity*** is derived from the word "Friday" and "Nighty". Friday nights are my preferred time to relax and continue working on my passion projects. It is my favourite peroid of time in a week. *This is my brand name*.
+>
+> ***Fridella*** is further derived from *Fridenity*, with it being a more people name-like variation. *This is my personal name*.
+
+### Pronouncations
+
+> **Fri·del·la**: **`/fɹaɪˈdɛlˌlə/`** ("fri" in *Fri*day + *della*, emphasis on *del-*)
+>
+> **Fri·de·ni·ty**: **`/fɹaɪˈdɛn.ɪ.ti/`** (Similar to "Fidelity", adding *r* to *fi-* and replacing *li-* with *ni-*)
+
+### Variations
+
+You are free to change the capitalization of any of these names.
+
+> **Fridel**: shortened from *Fridella*, but the emphasis is on *fri-* instead
+>
+> **Fride**: pronounced exactly like "Friday"
+>
+> **Fifi**: pronounced "Fee-Fee", emphasis on the first *fi*. This variation is to provide the smoothest social transitioning from my deadname for whom I've already known pre-transitioned. *Read more about my transitioning in [the section below.](https://github.com/fridenity0777/fridenity0777#-regarding-me-and-coming-out)*
+>
+> **`fdnt`**: pronounced letter by letter
+>
+> **`fd`**: pronounced letter by letter
+
+### Other Names
+
+> Some other names that other people have called me include: *Fridge*, *Frid*, *Fries*, *Frilly* and etc. I do find these somewhat funny, and you are also free to use them. If you can come up with other nicknames, you can use that while talking to me as well if you see fit; I will add your variation to this list as well if I like it.
+
+### Old Name / Deadname
+
+<details>
+<summary>❗ Reveal spoiler</summary>
+
+> My old online username was ***Teammìe***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning*, as a sort of identifier/marker.
+>
+> <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins>
+
+</details>
+
+</details>
+
+### 🏳️‍🌈 Regarding me and coming out
+
+<details>
+  <summary>👁️ View</summary>
+
+### Gender
+
+> I was [assigned male at birth](https://gender.fandom.com/wiki/Assigned_Sex). Ever since November 2022, I've socially transitioned. I've come out as **[Non-binary](https://gender.fandom.com/wiki/Non-binary)**; more specifically, **[Demigirl](https://gender.fandom.com/wiki/Demigirl)**. To keep it brief, I do not identify as either a man or a woman, but I do feel a lot more feminine than masculine.
+>
+> I go by the pronouns **She/They**.
+>
+> I am fine with being called a *girl*, a *woman* or anything along the same line, and I am also fine with being called a *Non-binary* or an *Enby*. Words like *Guy*, *Man*, *Dude* and *Bro* I all personally find to be gender-neutral, and can also be used on me. However, I do take offense to being called a *male*.
+
+### Sexuality
+
+> My sexuality is still **[Bisexual](https://sexuality.fandom.com/wiki/Bisexuality)** with a **preference for women**. So after my transition, I am no longer mildly [Heterosexual](https://sexuality.fandom.com/wiki/Heterosexuality) and am now mildly [Homosexual](https://sexuality.fandom.com/wiki/Homosexuality).
+
+### Romantic Orientation
+
+> I only find **women** to be of romantic interest. So after my transition, I am no longer [Heteromantic](https://sexuality.fandom.com/wiki/Heteromantic) and am now **[Homoromantic](https://sexuality.fandom.com/wiki/Homoromantic)**
+
+### New Name
+
+> I have chosen myself a new name upon my transitioning. **Read about the change and details of it in [the section above](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)**.
+
+</details>
 
 ---
 ![linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
