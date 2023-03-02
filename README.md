@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Fridella**<sup>[α](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)</sup>, and my brand name is **Fridenity**<sup>[α](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)</sup>! (often stylized as **`fridenity0777`**<sup>[α](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)</sup>).
+My name is **Fridella**<sup>[α](#-regarding-my-names)</sup>, and my brand name is **Fridenity**<sup>[α](#-regarding-my-names)</sup>! (often stylized as **`fridenity0777`**<sup>[α](#-regarding-my-names)</sup>).
 
 <div align="center">
 
@@ -16,7 +16,7 @@ My name is **Fridella**<sup>[α](https://github.com/fridenity0777/fridenity0777#
 ## 💖 About Me
 
 - **Interests**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
-- **Pronouns**: `She/They`<sup>[β](https://github.com/fridenity0777/fridenity0777#-regarding-me-and-coming-out)</sup>.
+- **Pronouns**: `She/They`<sup>[β](#%EF%B8%8F-regarding-me-and-coming-out)</sup>.
 - **Schedule**: I usually sleep very late, most often at 5-6 AM. I wake up at around 2-3 PM.
 - **Pinging**: I prefer receiving DMs instead of a @/mention.
 
