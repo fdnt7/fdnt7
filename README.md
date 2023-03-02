@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Fridella**<sup>[1](1-regarding-my-names)</sup>, and my brand name is **Fridenity**<sup>[1](1-regarding-my-names)</sup>! (often stylized as **`fridenity0777`**<sup>[1](1-regarding-my-names)</sup>).
+My name is **Fridella**<sup>[1](#1-regarding-my-names)</sup>, and my brand name is **Fridenity**<sup>[1](#1-regarding-my-names)</sup>! (often stylized as **`fridenity0777`**<sup>[1](#1-regarding-my-names)</sup>).
 
 <div align="center">
 
@@ -36,7 +36,7 @@ My name is **Fridella**<sup>[1](1-regarding-my-names)</sup>, and my brand name i
 
 - **Cosplaying Funds**: I've always really loved the craft of cosplaying, but I've never done it myself. So I wanted to try it for the first time by getting my hands on a premade cosplay clothing, and then I can be more familiar with the craft.
   
-  It also feels very gender-affirming<sup>[2](2-%EF%B8%8F-regarding-me-and-coming-out)</sup> for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#-support-me)!
+  It also feels very gender-affirming<sup>[2](#2%EF%B8%8F-regarding-me-and-coming-out)</sup> for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#-support-me)!
   
   <details>
     <summary>One of my favourite cosplayer 💜</summary>
@@ -97,7 +97,7 @@ My name is **Fridella**<sup>[1](1-regarding-my-names)</sup>, and my brand name i
 >
 > **Fride**: pronounced exactly like "Friday"
 >
-> **Fifi**: pronounced "Fee-Fee", emphasis on the first *fi*. This variation is to provide the smoothest social transitioning from my deadname for whom I've already known pre-transitioned. *Read more about my transitioning in [the section below.](2-%EF%B8%8F-regarding-me-and-coming-out)*
+> **Fifi**: pronounced "Fee-Fee", emphasis on the first *fi*. This variation is to provide the smoothest social transitioning from my deadname for whom I've already known pre-transitioned. *Read more about my transitioning in [the section below.](#2%EF%B8%8F-regarding-me-and-coming-out)*
 >
 > **`fdnt`**: pronounced letter by letter
 >
@@ -112,7 +112,7 @@ My name is **Fridella**<sup>[1](1-regarding-my-names)</sup>, and my brand name i
   <details>
     <summary>❗ Reveal spoiler</summary>
 
-> My old online username was ***Teammìe***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning*<sup>[2](2-%EF%B8%8F-regarding-me-and-coming-out)</sup>, as a sort of identifier/marker.
+> My old online username was ***Teammìe***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning*<sup>[2](#2%EF%B8%8F-regarding-me-and-coming-out)</sup>, as a sort of identifier/marker.
 >
 > <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins>
 
@@ -143,7 +143,7 @@ My name is **Fridella**<sup>[1](1-regarding-my-names)</sup>, and my brand name i
 
 ### New Name
 
-> I have chosen myself a new name upon my transitioning. **Read about the change and details of it in [the section above](1-regarding-my-names)**.
+> I have chosen myself a new name upon my transitioning. **Read about the change and details of it in [the section above](#1-regarding-my-names)**.
 
 <div align=center>
   <img src="assets/flags/demigirl.jpeg"  width=64 height=39>
