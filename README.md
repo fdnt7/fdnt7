@@ -1,10 +1,12 @@
 # Hello! 👋
 
-My name is **Fridella**<sup>[α](#-regarding-my-names)</sup>, and my brand name is **Fridenity**<sup>[α](#-regarding-my-names)</sup>! (often stylized as **`fridenity0777`**<sup>[α](#-regarding-my-names)</sup>).
+My name is **Fridella**<sup>[1](1-regarding-my-names)</sup>, and my brand name is **Fridenity**<sup>[1](1-regarding-my-names)</sup>! (often stylized as **`fridenity0777`**<sup>[1](1-regarding-my-names)</sup>).
 
 <div align="center">
 
 ![niko](assets/niko.jpg)
+
+<sup>[Artist Link](https://www.deviantart.com/muddymelly)</sup>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=fridenity0777&theme=radical)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridenity0777&theme=radical&layout=compact)
@@ -15,8 +17,9 @@ My name is **Fridella**<sup>[α](#-regarding-my-names)</sup>, and my brand name 
 
 ## 💖 About Me
 
+- **Languages**: 🇹🇭🇬🇧🇨🇳🇯🇵
 - **Interests**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
-- **Pronouns**: `She/They`<sup>[β](#%EF%B8%8F-regarding-me-and-coming-out)</sup>.
+- **Programming**: [🦀](https://www.rust-lang.org/)[🐍](https://www.python.org/)
 - **Schedule**: I usually sleep very late, most often at 5-6 AM. I wake up at around 2-3 PM.
 - **Pinging**: I prefer receiving DMs instead of a @/mention.
 
@@ -31,13 +34,17 @@ My name is **Fridella**<sup>[α](#-regarding-my-names)</sup>, and my brand name 
 
 ## 🌱 Current Needed Help
 
-- **Cosplaying Funds**: I've always really loved the craft of cosplaying, but I've never done it myself. So I wanted to try it for the first time by getting myself hands on a premade cosplay clothing, and then I can be more familiar with the craft. Please consider donating to me via the links below! <details>
-  <summary>One of my favourite cosplayer</summary>
+- **Cosplaying Funds**: I've always really loved the craft of cosplaying, but I've never done it myself. So I wanted to try it for the first time by getting my hands on a premade cosplay clothing, and then I can be more familiar with the craft.
+  
+  It also feels very gender-affirming<sup>[2](2-%EF%B8%8F-regarding-me-and-coming-out)</sup> for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#-support-me)!
+  
+  <details>
+    <summary>One of my favourite cosplayer 💜</summary>
 
-  ![pinyin](assets/pinyin.jpeg)
-  <sub>Her name is `pinyin`</sub>
+    ![pinyin](assets/pinyin.jpeg)
+    <sub>Her name is `Pinyin`</sub>
 
-</details>
+  </details>
 
 ## 📨 Contacts
 
@@ -61,9 +68,9 @@ My name is **Fridella**<sup>[α](#-regarding-my-names)</sup>, and my brand name 
 [![twitter2](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/_frydellia0999)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fridenity0777)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5pMgZ5651eUrL5y9ApXhHA)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fridenity0777)
 
-### 🪪 Regarding my name(s)
+### <sup>1</sup>🪪 Regarding my name(s)
 
 <details>
   <summary>👁️ View</summary>
@@ -80,38 +87,40 @@ My name is **Fridella**<sup>[α](#-regarding-my-names)</sup>, and my brand name 
 >
 > **Fri·de·ni·ty**: **`/fɹaɪˈdɛn.ɪ.ti/`** (Similar to "Fidelity", adding *r* to *fi-* and replacing *li-* with *ni-*)
 
+- Some other pronunciations that other people have called me include: *Fridella*: *`/fɹiːˈdɛˌja/`* (*free-day-ya*)
+
 ### Variations
 
-You are free to change the capitalization of any of these names.
+- You are free to change the capitalization of any of these names.
 
 > **Fridel**: shortened from *Fridella*, but the emphasis is on *fri-* instead
 >
 > **Fride**: pronounced exactly like "Friday"
 >
-> **Fifi**: pronounced "Fee-Fee", emphasis on the first *fi*. This variation is to provide the smoothest social transitioning from my deadname for whom I've already known pre-transitioned. *Read more about my transitioning in [the section below.](https://github.com/fridenity0777/fridenity0777#-regarding-me-and-coming-out)*
+> **Fifi**: pronounced "Fee-Fee", emphasis on the first *fi*. This variation is to provide the smoothest social transitioning from my deadname for whom I've already known pre-transitioned. *Read more about my transitioning in [the section below.](2-%EF%B8%8F-regarding-me-and-coming-out)*
 >
 > **`fdnt`**: pronounced letter by letter
 >
 > **`fd`**: pronounced letter by letter
 
-### Other Names
+### Others
 
-> Some other names that other people have called me include: *Fridge*, *Frid*, *Fries*, *Frilly* and etc. I do find these somewhat funny, and you are also free to use them. If you can come up with other nicknames, you can use that while talking to me as well if you see fit; I will add your variation to this list as well if I like it.
+> Some other names that other people have called me include: *Fridge*, *Frid*, *Fries*, *Frilly* and etc. I do find these somewhat funny, and you are also free to use them. *If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list as well if I like it.
 
 ### Old Name / Deadname
 
-<details>
-<summary>❗ Reveal spoiler</summary>
+  <details>
+    <summary>❗ Reveal spoiler</summary>
 
-> My old online username was ***Teammìe***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning*, as a sort of identifier/marker.
+> My old online username was ***Teammìe***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning*<sup>[2](2-%EF%B8%8F-regarding-me-and-coming-out)</sup>, as a sort of identifier/marker.
 >
 > <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins>
 
-</details>
+  </details>
 
 </details>
 
-### 🏳️‍🌈 Regarding me and coming out
+### <sup>2</sup>🏳️‍🌈 Regarding me and coming out
 
 <details>
   <summary>👁️ View</summary>
@@ -120,7 +129,7 @@ You are free to change the capitalization of any of these names.
 
 > I was [assigned male at birth](https://gender.fandom.com/wiki/Assigned_Sex). Ever since November 2022, I've socially transitioned. I've come out as **[Non-binary](https://gender.fandom.com/wiki/Non-binary)**; more specifically, **[Demigirl](https://gender.fandom.com/wiki/Demigirl)**. To keep it brief, I do not identify as either a man or a woman, but I do feel a lot more feminine than masculine.
 >
-> I go by the pronouns **She/They**.
+> I go by the pronouns **She/They**, as stated in the github profile's pronoun section.
 >
 > I am fine with being called a *girl*, a *woman* or anything along the same line, and I am also fine with being called a *Non-binary* or an *Enby*. Words like *Guy*, *Man*, *Dude* and *Bro* I all personally find to be gender-neutral, and can also be used on me. However, I do take offense to being called a *male*.
 
@@ -134,19 +143,24 @@ You are free to change the capitalization of any of these names.
 
 ### New Name
 
-> I have chosen myself a new name upon my transitioning. **Read about the change and details of it in [the section above](https://github.com/fridenity0777/fridenity0777#-regarding-my-names)**.
+> I have chosen myself a new name upon my transitioning. **Read about the change and details of it in [the section above](1-regarding-my-names)**.
+
+<div align=center>
+  <img src="assets/flags/demigirl.jpeg"  width=64 height=39>
+  <img src="assets/flags/bisexual.jpeg"  width=64 height=39>
+  <img src="assets/flags/homoromantic.jpeg"  width=64>
+</div>
 
 </details>
 
 ---
-![linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![artix](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)
 ![alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
@@ -154,3 +168,8 @@ You are free to change the capitalization of any of these names.
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
 ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
