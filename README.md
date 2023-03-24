@@ -37,7 +37,7 @@ My name is **Fridella**<sup>[1](#1-regarding-my-names)</sup>, and my brand name 
 
 - **Cosplaying Funds**: I've always really loved the craft of cosplaying, but I've never done it myself. So I wanted to try it for the first time by getting my hands on a premade cosplay clothing, and then I can be more familiar with the craft.
   
-  It also feels very gender-affirming<sup>[2](#2%EF%B8%8F-regarding-me-and-coming-out)</sup> for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#-support-me)!
+  It also feels very gender-affirming<sup>[2](#2-regarding-me-and-coming-out)</sup> for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#-support-me)!
   
   <details>
     <summary>One of my favourite cosplayer 💜</summary>
@@ -103,7 +103,7 @@ My name is **Fridella**<sup>[1](#1-regarding-my-names)</sup>, and my brand name 
 >
 > **Fride**: (*friday*) my personal name, shortened
 >
-> **Fifi**: (*fee-fee*, emphasis on the first *fi-*) serves as the variation to provide the smoothest social transitioning from my deadname for whom I've already known pre-transitioned. *Read more about my transitioning in [the section below.](#2%EF%B8%8F-regarding-me-and-coming-out)*
+> **Fifi**: (*fee-fee*, emphasis on the first *fi-*) serves as the variation to provide the smoothest social transitioning from my deadname for whom I've already known pre-transitioned. *Read more about my transitioning in [the section below.](#2-regarding-me-and-coming-out)*
 >
 > **`fdnt`**: (*f-d-n-t*) my brand name, shortened with more brevity
 >
@@ -134,7 +134,7 @@ My name is **Fridella**<sup>[1](#1-regarding-my-names)</sup>, and my brand name 
   <details>
     <summary>❗ Reveal spoiler</summary>
 
-> My old online username was ***Teammìe*** */* ***Timì***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning*<sup>[2](#2%EF%B8%8F-regarding-me-and-coming-out)</sup>, as a sort of identifier/marker.
+> My old online username was ***Teammìe*** */* ***Timì***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning*<sup>[2](#2-regarding-me-and-coming-out)</sup>, as a sort of identifier/marker.
 >
 > **Warning** <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins> Please proceed to call me the names I've mentioned in above sections instead.
 
@@ -142,7 +142,7 @@ My name is **Fridella**<sup>[1](#1-regarding-my-names)</sup>, and my brand name 
 
 </details>
 
-### <sup>2</sup>🏳️‍🌈 Regarding me and coming out
+### <sup>2</sup>🌈 Regarding me and coming out
 
 <details>
   <summary>👁️ View</summary>
