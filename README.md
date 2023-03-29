@@ -111,7 +111,7 @@ My name is **Fridella**<sup>[1](#1-regarding-my-names)</sup>, and my brand name 
 
 ### Others
 
-> Some other names that other people have called me include: *Fridge*, *Frid*, *Fries*, *Frilly* and etc. I do find these somewhat funny, and you are also free to use them. *If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list as well if I like it.
+> Some other names that other people have called me include: *Big Friday*, *Fridge*, *Frid*, *Fries*, *Frilly*, *Flider*, *Folder*, *Fried Chicken*, and etc. I do find these somewhat funny, and you are also free to use them. *If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list as well if I like it.
 
 ### Other Identities
 
@@ -151,7 +151,9 @@ My name is **Fridella**<sup>[1](#1-regarding-my-names)</sup>, and my brand name 
 
 > I was [assigned male at birth](https://gender.fandom.com/wiki/Assigned_Sex). Ever since November 2022, I've socially transitioned. I've come out as **[Non-binary](https://gender.fandom.com/wiki/Non-binary)**; more specifically, **[Demigirl](https://gender.fandom.com/wiki/Demigirl)**. To keep it brief, I do not identify as either a man or a woman, but I do feel a lot more feminine than masculine.
 >
-> I go by the pronouns **She/They**, as stated in the github profile's pronoun section.
+> That does technically makes me a [transgender](https://gender.fandom.com/wiki/Transgender) person, but unless it is relevant to the context, I prefer not to be associated with the label for safety reasons.
+>
+> I go by the pronouns **She/Her** and **They/Them** in the order of descending preference, as stated in the github profile's pronoun section.
 >
 > I am fine with being called a *girl*, a *woman* or anything along the same line, and I am also fine with being called a *Non-binary* or an *Enby*. Words like *Guy*, *Man*, *Dude* and *Bro* I all personally find to be gender-neutral, and can also be used on me. However, I do take offense to being called a *male*.
 
