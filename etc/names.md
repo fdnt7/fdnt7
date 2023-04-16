@@ -1,6 +1,6 @@
 <h1 id="regarding-my-names">🪪 Regarding my names</h1>
 
-> **Note** **If you've gotten to know me before 2023, read [this section](#old-names) first**
+> **Note** **If you got to know me before 2023, read the "[old names](#old-names)" section first.**
 
 <!-- Pronunciations -->
 ## Pronunciations
