@@ -102,6 +102,9 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 
 > The section has been moved to a separate Markdown file[^2].
 
+[🪪 Regarding my names](/etc/names.md)
+[🏳️‍🌈 Regarding me coming out](/etc/lgbtqia.md)
+
 <!-- Footnotes -->
 [^1]: [🪪 Regarding my names](/etc/names.md)
 [^2]: [🏳️‍🌈 Regarding me coming out](/etc/lgbtqia.md)
