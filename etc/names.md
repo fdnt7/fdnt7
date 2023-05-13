@@ -40,7 +40,9 @@
 <!-- Others -->
 ## Others
 
-> Some other names that other people have called me include: *Big Friday*, *Fridge*, *Frid*, *Fries*, *Frilly*, *Flider*, *Folder*, *Fried Chicken*, *Freidel*, and etc. I do find these somewhat funny, and you are also free to use them.*If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list as well if I like it.
+> Some other names that other people have called me include: *Big Friday*, *Fridge*, *Frid*, *Fries*, *Frilly*, *Flider*, *Folder*, *Fried Chicken*, *Freidel*, *Friyay*, *Fridelletina*, and etc. 
+>
+> I do find these somewhat playful, and you are also free to use them. *If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list as well if I like it.
 
 <!-- Other Identities -->
 ## Other Identities
@@ -71,5 +73,5 @@
 
 </details>
 
-<!-- Footnodes -->
+<!-- Footnotes -->
 [^?]: [🏳️‍🌈 Regarding me coming out](lgbtqia.md)

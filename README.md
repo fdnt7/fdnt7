@@ -51,10 +51,11 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 <!-- Support -->
 <h2 id="support">💰 Support Me</h2>
 
-> **Warning** **At the time of writing this, I am currently unable to recieve payments from these.**
+<!-- > **Warning** **At the time of writing this, I am currently unable to recieve payments from these.** -->
 
+<!-- [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/...) -->
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fridenity0777)
-[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/teammiez)
+[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://en.liberapay.com/fridenity0777/)
 
 <!-- Socials -->
 <h2 id="socials">🔗 Socials</h2>
