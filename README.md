@@ -1,5 +1,5 @@
 <!-- Header -->
-# <a name="hello"></a> Hello! 👋
+# <span id="hello"></span> Hello! 👋
 
 My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often stylized as **`fridenity0777`**[^1]).
 
@@ -17,7 +17,7 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 </div>
 
 <!-- About -->
-## <a name="about"></a> 💖 About Me
+## <span id="about"></span> 💖 About Me
 
 - **Languages**: 🇹🇭🇬🇧🇨🇳🇯🇵
 - **Interests**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
@@ -26,31 +26,31 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 - **Notifying**: I prefer receiving DMs instead of a @/mention.
 
 <!-- Projects -->
-## <a name="projects"></a> 💎 Current Projects
+## <span id="projects"></span> 💎 Current Projects
 
 [![Λύρα](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=lyra&theme=rose_pine&hide_border=true)](https://github.com/lyra-music/lyra)
 [![novalink](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=novalink&theme=rose_pine&hide_border=true)](https://github.com/lyra-music/novalink)
 
 <!-- Future Plans -->
-## <a name="future-plans"></a> 🚀 Future Plans
+## <span id="future-plans"></span> 🚀 Future Plans
 
 - [ ] ⏳ **Λύρα** Rust Rewrite
 
 <!-- Needed Help -->
-## <a name="needed-help"></a> 🌱 Current Needed Help
+## <span id="needed-help"></span> 🌱 Current Needed Help
 
 - **Cosplaying Funds**: I've always really loved the craft of cosplaying, but I've never done it myself. So I wanted to try it for the first time by getting my hands on a premade cosplay clothing, and then I can be more familiar with the craft.
   
   It also feels very gender-affirming[^2] for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#support)!
 
 <!-- Contacts -->
-## <a name="contacts"></a> 📨 Contacts
+## <span id="contacts"></span> 📨 Contacts
 
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://pastebin.com/KBiVmSTY)
 ![discord](https://dcbadge.vercel.app/api/shield/548850193202675713)
 
 <!-- Support -->
-## <a name="support"></a> 💰 Support Me
+## <span id="support"></span> 💰 Support Me
 
 <!-- > **Warning** **At the time of writing this, I am currently unable to recieve payments from these.** -->
 
@@ -59,7 +59,7 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 [![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://en.liberapay.com/fridenity0777)
 
 <!-- Socials -->
-## <a name="socials"></a> 🔗 Socials
+## <span id="socials"></span> 🔗 Socials
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fridenity0777)
 [![mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@fdnt)
@@ -97,11 +97,11 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 <!-- Backwards Compatibility -->
-### <a name="1-regarding-my-names"></a> Looking for the "Regarding my names" section?
+### <span id="1-regarding-my-names"></span> Looking for the "Regarding my names" section?
 
 > The section has been moved to a separate Markdown file[^1].
 
-### <a name="2-regarding-me-and-coming-out"></a> Looking for the "Regarding me coming out" section?
+### <span id="2-regarding-me-and-coming-out"></span> Looking for the "Regarding me coming out" section?
 
 > The section has been moved to a separate Markdown file[^2].
 
