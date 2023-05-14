@@ -10,7 +10,7 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 ![stats](https://github-readme-stats.vercel.app/api?username=fridenity0777&theme=rose_pine&hide_border=true)
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fridenity0777&theme=rose_pine&hide_border=true)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridenity0777&theme=rose_pine&layout=compact&hide_border=true)
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fridenity0777&theme=rose_pine&hide_border=true)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fridenity0777&theme=rose_pine&hide_border=true&layout=compact)
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 </div>
@@ -79,6 +79,7 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 ![neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
