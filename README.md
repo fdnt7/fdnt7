@@ -1,4 +1,4 @@
-<h1 id="hello">Hello! 👋</h1>
+# <a name="hello"></a> Hello! 👋
 
 My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often stylized as **`fridenity0777`**[^1]).
 
@@ -33,7 +33,7 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 <!-- Future Plans -->
 <h2 id="future-plans">🚀 Future Plans</h2>
 
-- [ ] ⏳ **Λύρα** Rust Rewrite
+- [ ] ⏳ **Λύρα** Rust [Rewrite](#hello)
 
 <!-- Needed Help -->
 <h2 id="needed-help">🌱 Current Needed Help</h2>
@@ -105,5 +105,5 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 > The section has been moved to a separate Markdown file[^2].
 
 <!-- Footnotes -->
-[^1]: [🪪 Regarding my names](/etc/names.md)
-[^2]: [🏳️‍🌈 Regarding me coming out](/etc/lgbtqia.md)
+[^1]: [🪪 Regarding my names](https://github.com/fridenity0777/fridenity0777/blob/main/etc/names.md)
+[^2]: [🏳️‍🌈 Regarding me coming out](https://github.com/fridenity0777/fridenity0777/blob/main/etc/lgbtqia.md)
