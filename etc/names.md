@@ -1,4 +1,5 @@
-<h1 id="regarding-my-names">🪪 Regarding my names</h1>
+<!-- Header -->
+# <span id="regarding-my-names">🪪 Regarding my names</span>
 
 > **Note** **If you got to know me before 2023, read the "[Old Names](#old-names)" section first.**
 
@@ -40,7 +41,7 @@
 <!-- Others -->
 ## Others
 
-> Some other names that other people have called me include: *Big Friday*, *Fridge*, *Frid*, *Fries*, *Frilly*, *Flider*, *Folder*, *Fried Chicken*, *Freidel*, *Friyay*, *Fridelletina*, *Fridya* and etc. 
+> Some other names that other people have called me include: *Big Friday*, *Fridge*, *Frid*, *Fries*, *Frilly*, *Flider*, *Folder*, *Fried Chicken*, *Freidel*, *Friyay*, *Fridelletina*, *Fridya* and etc.
 >
 > I do find these somewhat playful, and you are also free to use them. *If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list as well if I like it.
 

@@ -1,4 +1,5 @@
-<h1 id="regarding-me-coming-out">🏳️‍🌈 Regarding me coming out</h1>
+<!-- Header -->
+# <span id="regarding-me-coming-out">🏳️‍🌈 Regarding me coming out</span>
 
 <!-- Gender -->
 ## Gender
@@ -31,7 +32,7 @@ If you've reached this far reading this entire notice, **Thank you!** I hope you
 <div align=center>
   <img src="../assets/flags/demigirl.jpeg"  width=64 height=39>
   <img src="../assets/flags/bisexual.jpeg"  width=64 height=39>
-  <img src="../assets/flags/homoromantic.jpeg"  width=64>
+  <img src="../assets/flags/homoromantic.jpeg"  width=64 height=39>
 </div>
 
 <!-- Footnotes -->
