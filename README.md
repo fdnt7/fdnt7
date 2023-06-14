@@ -149,4 +149,4 @@ My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often styl
 <!-- Footnotes -->
 <!-- TODO: Update this with relative links once possible -->
 [^1]: [🪪 Regarding my names](https://github.com/fridenity0777/fridenity0777/blob/main/etc/names.md)
-[^2]: [🏳️‍🌈 Regarding me coming out](https://github.com/fridenity0777/fridenity0777/blob/main/etc/lgbtqia.md)
+[^2]: [🏳️‍🌈 Regarding me and LGBTQIA+](https://github.com/fridenity0777/fridenity0777/blob/main/etc/lgbtqia.md)

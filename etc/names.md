@@ -1,7 +1,7 @@
 <!-- Header -->
 # <span id="regarding-my-names">🪪 Regarding my names</span>
 
-> **Note** **If you got to know me before 2023, read the "[Old Names](#old-names)" section first.**
+> **Note** **If we became acquainted prior to 2023, please start by reading the section titled [Old Names](#old-names).**
 
 <!-- Pronunciations -->
 ## Pronunciations
@@ -76,4 +76,4 @@
 </details>
 
 <!-- Footnotes -->
-[^?]: [🏳️‍🌈 Regarding me coming out](lgbtqia.md)
+[^?]: [🏳️‍🌈 Regarding me and LGBTQIA+](lgbtqia.md)
