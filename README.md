@@ -42,9 +42,9 @@ jgs                                         _\_._\/_._/_                        
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=fridenity0777&theme=rose_pine&hide_border=true&show_icons=true)
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fridenity0777&theme=rose_pine&hide_border=true)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridenity0777&theme=rose_pine&layout=compact&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=fdnt7&theme=rose_pine&hide_border=true&show_icons=true)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdnt7&theme=rose_pine&hide_border=true)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdnt7&theme=rose_pine&layout=compact&hide_border=true)
 ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fdnt&theme=rose_pine&hide_border=true&layout=compact)
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
@@ -89,22 +89,22 @@ jgs                                         _\_._\/_._/_                        
 <!-- > **Warning** **At the time of writing this, I am currently unable to recieve payments from these.** -->
 
 <!-- [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/...) -->
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fridenity0777)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fdnt7_)
 [![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://en.liberapay.com/fdnt)
 
 <!-- Socials -->
 ## <span id="socials"></span> 🔗 Socials
 
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fridenity0777)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fdnt7)
 [![mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@fdnt)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fridenity0777)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fridenity0777/)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/fridenity0777)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fdnt7)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fdnt7_/)
+<!-- [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/fridenity0777) -->
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21558112/fdnt)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fridenity0777)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fridenity0777)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fridenity0777/)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fdnt7_)
+[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fdnt7_)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fdnt7_/)
 
 ---
 
@@ -147,5 +147,5 @@ jgs                                         _\_._\/_._/_                        
 
 <!-- Footnotes -->
 <!-- TODO: Update this with relative links once possible -->
-[^1]: [🪪 Regarding my names](https://github.com/fridenity0777/fridenity0777/blob/main/etc/names.md)
-[^2]: [🏳️‍🌈 Regarding me and LGBTQIA+](https://github.com/fridenity0777/fridenity0777/blob/main/etc/lgbtqia.md)
+[^1]: [🪪 Regarding my names](https://github.com/fdnt7/fdnt7/blob/main/etc/names.md)
+[^2]: [🏳️‍🌈 Regarding me and LGBTQIA+](https://github.com/fdnt7/fdnt7/blob/main/etc/lgbtqia.md)
