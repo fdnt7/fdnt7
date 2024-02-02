@@ -73,7 +73,7 @@ jgs                                         _\_._\/_._/_                        
 <!-- Needed Help -->
 ## <span id="needed-help"></span> 🌱 Current Needed Help
 
-- **Cosplaying Funds**: I've always really loved the craft of cosplaying, but I've never done it myself. So I wanted to try it for the first time by getting my hands on a premade cosplay clothing, and then I can be more familiar with the craft.
+- **Cosplaying Funds**: I've always really loved the craft of cosplaying, and I've tried some premade cosplays out already which can be checked out [here](https://ko-fi.com/fdnt7_/gallery)! That being said, I do have many more plans to cosplay other characters in the future!
   
   It also feels very gender-affirming[^2] for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#support)!
 
