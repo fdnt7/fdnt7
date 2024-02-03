@@ -9,16 +9,18 @@
 
 > I identify as **[Non-binary](https://gender.fandom.com/wiki/Non-binary)**, specifically as a **[Demigirl](https://gender.fandom.com/wiki/Demigirl)**. In summary, I don't identify as strictly male or female, but I lean more towards femininity than masculinity
 >
-> I go by the pronouns **She/Her** and **They/Them** in the order of descending preference, as stated in the github profile's pronoun section.
->
-> I am comfortable with being referred to as a *girl*, a *woman*, or any similar term. I am also comfortable with being referred to as *non-binary* or *enby*. Words like *guy*, *man*, *dude*, and *bro* I personally perceive as gender-neutral and am fine with them being used in reference to me. However, I do find it offensive to be referred to as *male*.
+> I go by the pronouns **She/Her** and **They/Them** in the order of descending preference, as stated in the GitHub profile's pronoun section.
+
+> [!NOTE]
+> I am comfortable with being referred to as a *girl*, a *woman*, or any similar term. I am also comfortable with being referred to as *non-binary* or *enby*. Words like *guy*, *man*, *dude*, and *bro* I personally perceive as gender-neutral and am fine with them being used about me. However, I do find it offensive to be referred to as *male*.
 
 <!-- Gender: Background -->
 ### <span id="gender-background">Background</span>
 
 > I was [assigned male at birth](https://gender.fandom.com/wiki/Assigned_Sex), and ever since November 2022, I've socially transitioned.
->
-> I am technically a [transgender](https://gender.fandom.com/wiki/Transgender) person, but unless it is directly relevant to the context, **I prefer not to be labeled as such for safety reasons**.
+
+> [!CAUTION]
+> I am technically a [transgender](https://gender.fandom.com/wiki/Transgender) person, but unless it is directly relevant to the context, **I prefer not to be labelled as such for safety reasons**.
 
 <!-- Gender: New Names -->
 ### <span id="gender-new-names">New Names</span>
