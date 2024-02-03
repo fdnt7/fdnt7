@@ -1,7 +1,8 @@
 <!-- Header -->
 # <span id="regarding-my-names">🪪 Regarding my names</span>
 
-> **Note** **If we became acquainted prior to 2023, please start by reading the section titled [Old Names](#old-names).**
+> [!IMPORTANT]
+> **If we became acquainted prior to 2023, please start by reading the section titled [Old Names](#old-names).**
 
 <!-- Pronunciations -->
 ## Pronunciations
@@ -71,7 +72,8 @@
 
 > My old online username was ***Teammìe*** */* ***Timì***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning[^?]*, as a sort of identifier/marker.
 >
-> **Warning** <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins> Please proceed to call me the names I've mentioned in above sections instead.
+> [!CAUTION]
+> <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins> Please proceed to call me the names I've mentioned in above sections instead.
 
 </details>
 
