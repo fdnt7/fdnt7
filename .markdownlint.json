@@ -1,4 +1,6 @@
 {
     "no-inline-html": false,
-    "line-length": false
+    "line-length": false,
+    "no-blanks-blockquote": false,
+    "no-alt-text": false
 }

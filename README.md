@@ -56,7 +56,7 @@ jgs                                         _\_._\/_._/_                        
 - **Languages**: 🇹🇭🇬🇧🇨🇳🇯🇵
 - **Interests**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
 - **Programming**: [![rust](https://img.shields.io/badge/Rust-black?style=flate&logo=rust)](https://www.rust-lang.org/)[![python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
-- **Schedule**: I usually sleep very late, most often at 5-6 AM. I wake up at around 2-3 PM.
+- **Schedule**: I usually sleep somewhat late, most often at 1-2 AM. I wake up at around 10-11 AM.
 - **Notifying**: I prefer receiving DMs instead of a @/mention.
 
 <!-- Projects -->
