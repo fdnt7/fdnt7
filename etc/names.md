@@ -2,7 +2,7 @@
 # <span id="regarding-my-names">🪪 Regarding my names</span>
 
 > [!IMPORTANT]
-> **If we became acquainted prior to 2023, please start by reading the section titled [Old Names](#old-names).**
+> **If we became acquainted before 2023, please start by reading the section titled [Old Names](#old-names).**
 
 <!-- Pronunciations -->
 ## Pronunciations
@@ -16,7 +16,7 @@
 <!-- Etymology -->
 ## Etymology
 
-> ***Fridenity*** is derived from the word "Friday" and "Night". Friday nights are my preferred time to relax and continue working on my passion projects. It is my favourite peroid of time in a week. *This is my brand name*.
+> ***Fridenity*** is derived from the words "Friday" and "Night". Friday nights are my preferred time to relax and continue working on my passion projects. It is my favourite time of a week. *This is my brand name*.
 >
 > ***Fridella*** is further derived from *Fridenity*, with it being a more people name-like variation. *This is my personal name*.
 
@@ -27,7 +27,7 @@
 
 > **Friday Night**: my "abstract" pseudonym
 >
-> **Friday**: my "abstract" psedonym, shortened
+> **Friday**: my "abstract" pseudonym, shortened
 >
 > **Fridel**: (*fry-del*, emphasis on *fri-*) my personal name, shortened
 >
@@ -42,14 +42,18 @@
 <!-- Others -->
 ## Others
 
-> Some other names that other people have called me include: *Big Friday*, *Fridge*, *Frid*, *Frida*, *Friddy*, *Freidel*, *Fridelletina*, *Fridya*, *Froodai*, *Frooday*, *Fried Chicken*, *Folder*, *Flider*, *Friyay*, *Fries*, *Frilly*, ***Fyure*** ♡ and etc.
->
-> I do find these somewhat playful, and you are also free to use them. *If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list as well if I like it.
+> Some other names that other people have called me include: *Big Friday*, *Fridge*, *Frid*, *Frida*, *Friddy*, *Freidel*, *Fridelletina*, *Fridya*, *Froodai*, *Frooday*, *Fried Chicken*, *Folder*, *Flider*, *Friyay*, *Fries*, *Frilly*, ***Fyure*** ♡, etc. I find these somewhat playful, and you are free to use them.
+
+> [!TIP]
+> *If you can come up with other nicknames, you can use that while talking to me as well if you see fit*; I will add your variation to this list if I like it.
 
 <!-- Other Identities -->
 ## Other Identities
 
-> ***`@_frydellia0999`*** */* ***`@_fdl9`*** */* ***Frydellia*** */* ***Frydel*** is a name of my another identity that is more lenient on *NSFW* topics and without much censorship. You can think of this as like a more "unfiltered" version of me.
+> ***`@_frydellia0999`*** */* ***`@_fdl9`*** */* ***Frydellia*** */* ***Frydel*** is a name of my other identity that is more lenient on *NSFW* topics and without much censorship. You can think of this as a more "unfiltered" version of me.
+
+> [!WARNING]
+> Contains links to possibly NSFW content.
 
 <details>
 <summary>❗ Reveal spoiler</summary>
@@ -67,13 +71,13 @@
 <!-- Old Names -->
 <h2 id="old-names">Old Names / Deadnames</h2>
 
+> [!CAUTION]
+> <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins> Please proceed to call me the names I've mentioned in the above sections instead.
+
 <details>
 <summary>❗ Reveal spoiler</summary>
 
 > My old online username was ***Teammìe*** */* ***Timì***. It is a variation of my birth nickname. In the LGBTQIA+ community, this is so-called a [**Deadname**](https://gender.fandom.com/wiki/Deadnaming). This is to *separate my life before and after transitioning[^?]*, as a sort of identifier/marker.
->
-> [!CAUTION]
-> <ins>**This is a name that I do not go by anymore. I do not want to be called by this name in any circumstances unless I bring it up on my own accord first.**</ins> Please proceed to call me the names I've mentioned in above sections instead.
 
 </details>
 
