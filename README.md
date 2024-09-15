@@ -4,40 +4,42 @@
 My name is **Fridella**[^1], and my brand name is **Fridenity**[^1]! (often stylized as **`@fridenity0777`**[^1] or **`@fdnt`**[^1]).
 
 <!-- Banner -->
-```rb
+
+```i
                                        *  .  *
                                      . _\/ \/_ .
-                                      \  \ /  /                                 .      .
-        ..    ..                    -==>: X :<==-                               _\/  \/_
-        '\    /'                      / _/ \_ \                                  _\/\/_
-          \\//                       '  /\ /\  '                             _\_\_\/\/_/_/_
-     _.__\\\///__._                    *  '  *                                / /_/\/\_\ \
-      '  ///\\\  '                                                               _/\/\_
-          //\\                                                                   /\  /\
-        ./    \.                                   ._    _.                     '      '
-        ''    ''                                   (_)  (_)                                              <> \  / <>
-                                                    .\::/.                                               \_\/  \/_/
-                 .:.                            _.=._\\//_.=._                                              \\//
-            ..   \o/   ..                        '=' //\\ '='                                         _<>_\_\<>/_/_<>_
-            :o|   |   |o:                           '/::\'                                             <> / /<>\ \ <>
-             ~ '. ' .' ~                           (_)  (_)                      _    _                   _ //\\ _
-                 >O<                               '      '                     /_/  \_\                 / /\  /\ \
-             _ .' . '. _                                                          \\//                   <> /  \ <>
-            :o|   |   |o:                                                     /\_\\><\\ \/
-                 ':'                        . ~~\  /~~ .                         _//\\_
-jgs                                         _\_._\/_._/_                        \_\  /_/
-                                             / ' /\ ' \                                             \o/
-       o                                    ' __/  \__ '                                        _o/.:|:.\o_
-  o    :    o                               ' .'|  |'.                                            .\:|:/.
-    '.\'/.'                                       .                                           -=>>::>o<::<<=-
-    :->@<-:                                       :                                             _ '/:|:\' _
-    .'/.\'.                                 '.___/*\___.'                                        o\':|:'/o
-  o    :    o                                 \* \ / */                                             /o\
-       o                                       >--X--<
-                                              /*_/ \_*\
-                                            .'   \*/   '.
-                                                  :
-                                                  '
+                                      \  \ /  /                            .      .
+        ..    ..                    -==>: X :<==-                          _\/  \/_
+        '\    /'                      / _/ \_ \                             _\/\/_
+          \\//                       '  /\ /\  '                        _\_\_\/\/_/_/_
+     _.__\\\///__._                    *  '  *                           / /_/\/\_\ \
+      '  ///\\\  '                                                          _/\/\_
+          //\\                                                              /\  /\
+        ./    \.                                   ._    _.                '      '
+        ''    ''                                   (_)  (_)                                         <> \  / <>
+                                                    .\::/.                                          \_\/  \/_/
+                 .:.                            _.=._\\//_.=._                                         \\//
+            ..   \o/   ..                        '=' //\\ '='                                    _<>_\_\<>/_/_<>_
+            :o|   |   |o:                           '/::\'                                        <> / /<>\ \ <>
+             ~ '. ' .' ~                           (_)  (_)                 _    _                   _ //\\ _
+                 >O<                               '      '                /_/  \_\                 / /\  /\ \
+             _ .' . '. _                                                     \\//                   <> /  \ <>
+            :o|   |   |o:                                                /\_\\><\\ \/
+                 ':'                   . ~~\  /~~ .                         _//\\_
+jgs                                    _\_._\/_._/_                        \_\  /_/
+                                        / ' /\ ' \                                             \o/
+       o                               ' __/  \__ '                                        _o/.:|:.\o_
+  o    :    o                          ' .'|  |'.                                            .\:|:/.
+    '.\'/.'                   .                                                          -=>>::>o<::<<=-
+    :->@<-:                   :                                                            _ '/:|:\' _
+    .'/.\'.             '.___/*\___.'                                                       o\':|:'/o
+  o    :    o             \* \ / */                                                            /o\
+       o                   >--X--<                        
+                          /*_/ \_*\                       
+                        .'   \*/   '.                     
+                              :                           
+                              '                           
+
 ```
 
 <div align="center">
@@ -54,17 +56,18 @@ jgs                                         _\_._\/_._/_                        
 <!-- About -->
 ## <span id="about"></span> 💖 About Me
 
-- **`Schedule   `**: I usually sleep at 11 PM - 1 AM. I wake up at around 7-8 AM.
-- **`Notifying  `**: I prefer receiving DMs instead of a @/mention.
-- **`Languages  `**: 🇹🇭🇬🇧🇨🇳🇯🇵
-- **`Interests  `**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
-- **`Programming`**:
+- **`Active Times`**
+📅 Sun ~ Sat ⌚ 9 a.m. ~ 12 p.m.
+- **`Notifying   `** 📨 I prefer receiving DMs instead of a @/mention.
+- **`Languages   `** 🇹🇭🇬🇧🇨🇳🇯🇵
+- **`Interests   `** 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
+- **`Programming `**
 [![rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)](https://www.rust-lang.org/)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=flat&logo=NixOS&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 [![python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
-- **`Socials    `**:
+- **`Socials     `**
 [![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/fdnt7)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/fdnt7)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fdnt7_/)
@@ -72,11 +75,11 @@ jgs                                         _\_._\/_._/_                        
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@fdnt7_)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/fdnt7_)
 [![steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/fdnt7_/)
-- **`Support Me `**:
+- **`Support Me  `**
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/fdnt7_)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fdnt)
 [![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=flat&logo=liberapay&logoColor=black)](https://en.liberapay.com/fdnt)
-- **`Contacts   `**:
+- **`Contacts    `**
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:fdnt@proton.com)
 ![discord](https://dcbadge.vercel.app/api/shield/548850193202675713?style=flat)
 
@@ -117,8 +120,6 @@ jgs                                         _\_._\/_._/_                        
 <!-- [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/fridenity0777) -->
 <!-- [![mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@fdnt) -->
 <!-- [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21558112/fdnt) -->
-
----
 
 <!-- Badges Spam -->
 <!-- ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
