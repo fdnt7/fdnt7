@@ -47,70 +47,81 @@ jgs                                         _\_._\/_._/_                        
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdnt7&theme=rose_pine&layout=compact&hide_border=true)
 ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fdnt&theme=rose_pine&hide_border=true&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/593a8739-5ad7-44b8-9dd7-409d948fcb10.svg)](https://wakatime.com/@593a8739-5ad7-44b8-9dd7-409d948fcb10)
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 </div>
 
 <!-- About -->
 ## <span id="about"></span> 💖 About Me
 
-- **Languages**: 🇹🇭🇬🇧🇨🇳🇯🇵
-- **Interests**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
-- **Programming**: [![rust](https://img.shields.io/badge/Rust-black?style=flate&logo=rust)](https://www.rust-lang.org/)[![python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
-- **Schedule**: I usually sleep somewhat late, most often at 1-2 AM. I wake up at around 10-11 AM.
-- **Notifying**: I prefer receiving DMs instead of a @/mention.
+- **`Schedule   `**: I usually sleep at 11 PM - 1 AM. I wake up at around 7-8 AM.
+- **`Notifying  `**: I prefer receiving DMs instead of a @/mention.
+- **`Languages  `**: 🇹🇭🇬🇧🇨🇳🇯🇵
+- **`Interests  `**: 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
+- **`Programming`**:
+[![rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)](https://www.rust-lang.org/)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=flat&logo=NixOS&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+[![python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
+- **`Socials    `**:
+[![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/fdnt7)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/fdnt7)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fdnt7_/)
+[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@fdnt7_)
+[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/fdnt7_)
+[![steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/fdnt7_/)
+- **`Support Me `**:
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/fdnt7_)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fdnt)
+[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=flat&logo=liberapay&logoColor=black)](https://en.liberapay.com/fdnt)
+- **`Contacts   `**:
+[![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:fdnt@proton.com)
+![discord](https://dcbadge.vercel.app/api/shield/548850193202675713?style=flat)
+
+> [!IMPORTANT]
+> **I am currently on an indefinite break on Discord.**
 
 <!-- Projects -->
-## <span id="projects"></span> 💎 Current Projects
+<!-- ## <span id="projects"></span> 💎 Current Projects -->
 
-[![Λύρα](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=lyra&theme=rose_pine&hide_border=true)](https://github.com/lyra-music/lyra)
-[![novalink](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=novalink&theme=rose_pine&hide_border=true)](https://github.com/lyra-music/novalink)
+<!-- [![Λύρα](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=lyra&theme=rose_pine&hide_border=true)](https://github.com/lyra-music/lyra) -->
+<!-- [![novalink](https://github-readme-stats.vercel.app/api/pin/?username=lyra-music&repo=novalink&theme=rose_pine&hide_border=true)](https://github.com/lyra-music/novalink) -->
 
 <!-- Future Plans -->
-## <span id="future-plans"></span> 🚀 Future Plans
+<!-- ## <span id="future-plans"></span> 🚀 Future Plans
 
-- [ ] ⏳ **Λύρα** Rust Rewrite
+- [ ] ⏳ **Λύρα** Rust Rewrite -->
 
 <!-- Needed Help -->
-## <span id="needed-help"></span> 🌱 Current Needed Help
+<!-- ## <span id="needed-help"></span> 🌱 Current Needed Help
 
 - **Cosplaying Funds**: I've always really loved the craft of cosplaying, and I've tried some premade cosplays out already which can be checked out [here](https://ko-fi.com/fdnt7_/gallery)! That being said, I do have many more plans to cosplay other characters in the future!
   
-  It also feels very gender-affirming[^2] for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#support)!
+  It also feels very gender-affirming[^2] for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#support)! -->
 
 <!-- Contacts -->
-## <span id="contacts"></span> 📨 Contacts
-
-[![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:fdnt@proton.com)
-![discord](https://dcbadge.vercel.app/api/shield/548850193202675713)
+<!-- ## <span id="contacts"></span> 📨 Contacts -->
 
 <!-- Support -->
-## <span id="support"></span> 💰 Support Me
+<!-- ## <span id="support"></span> 💰 Support Me -->
 
 <!-- > **Warning** **At the time of writing this, I am currently unable to receive payments from these.** -->
 
 <!-- [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/...) -->
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fdnt7_)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fdnt)
-[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://en.liberapay.com/fdnt)
 
 <!-- Socials -->
-## <span id="socials"></span> 🔗 Socials
+<!-- ## <span id="socials"></span> 🔗 Socials -->
 
 <!-- [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/fridenity0777) -->
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fdnt7)
-[![mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@fdnt)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fdnt7)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fdnt7_/)
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21558112/fdnt)
-[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fdnt7_)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/fdnt7_)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/fdnt7_/)
+<!-- [![mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@fdnt) -->
+<!-- [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21558112/fdnt) -->
 
 ---
 
 <!-- Badges Spam -->
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+<!-- ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -135,16 +146,16 @@ jgs                                         _\_._\/_._/_                        
 ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) -->
 
 <!-- Backwards Compatibility -->
-### <span id="1-regarding-my-names"></span> Looking for the "Regarding my names" section?
+<!-- ### <span id="1-regarding-my-names"></span> Looking for the "Regarding my names" section? -->
 
-> The section has been moved to a separate Markdown file[^1].
+<!-- > The section has been moved to a separate Markdown file[^1]. -->
 
-### <span id="2-regarding-me-and-coming-out"></span> Looking for the "Regarding me coming out" section?
+<!-- ### <span id="2-regarding-me-and-coming-out"></span> Looking for the "Regarding me coming out" section? -->
 
-> The section has been moved to a separate Markdown file[^2].
+<!-- > The section has been moved to a separate Markdown file[^2]. -->
 
 <!-- Footnotes -->
 <!-- TODO: Update this with relative links once possible -->

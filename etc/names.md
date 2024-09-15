@@ -62,9 +62,7 @@
 
 <!-- [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=black)](https://www.reddit.com/u/_frydellia0999) -->
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/_fdl9)
-[![mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=black)](https://pawoo.net/@_fdl9)
-
-- My [OnlyFans](https://onlyfans.com/u_fdl9)
+<!-- [![mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=black)](https://pawoo.net/@_fdl9) -->
 
 </details>
 
