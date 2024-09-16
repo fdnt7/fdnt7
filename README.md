@@ -69,7 +69,7 @@ jgs                                    _\_._\/_._/_                        \_\  
 [![python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
 - **`Socials     `**
 [![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/fdnt7)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/fdnt7)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/fdnt7_)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fdnt7_/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/21i2irqqgk4rlvl3ewomljvaa)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@fdnt7_)
