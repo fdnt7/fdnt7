@@ -76,6 +76,7 @@ jgs                                    _\_._\/_._/_                        \_\  
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/fdnt7_)
 [![steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/fdnt7_/)
 - **`Support Me  `**
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/fdnt7)
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/fdnt7_)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fdnt)
 [![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=flat&logo=liberapay&logoColor=black)](https://en.liberapay.com/fdnt)
