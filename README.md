@@ -57,7 +57,7 @@ jgs                                    _\_._\/_._/_                        \_\  
 ## <span id="about"></span> 💖 About Me
 
 - **`Active Times`**
-📅 Sun ~ Sat ⌚ 9:00 (09:00 a.m.) ~ 11:59 (23:59 p.m.)
+📅 Sun ~ Sat ⌚ 9 a.m. ~ 12 a.m.
 - **`Notifying   `** 📨 I prefer receiving DMs instead of a @/mention.
 - **`Languages   `** 🇹🇭🇬🇧🇨🇳🇯🇵
 - **`Interests   `** 🎼🎭🎲💄🖌️🚀🎤👩‍💻🎮
