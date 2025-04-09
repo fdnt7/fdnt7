@@ -34,11 +34,11 @@ jgs                                    _\_._\/_._/_                        \_\  
     :->@<-:                   :                                                            _ '/:|:\' _
     .'/.\'.             '.___/*\___.'                                                       o\':|:'/o
   o    :    o             \* \ / */                                                            /o\
-       o                   >--X--<                        
-                          /*_/ \_*\                       
-                        .'   \*/   '.                     
-                              :                           
-                              '                           
+       o                   >--X--<
+                          /*_/ \_*\
+                        .'   \*/   '.
+                              :
+                              '
 
 ```
 
@@ -85,9 +85,6 @@ jgs                                    _\_._\/_._/_                        \_\  
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:fdnt@proton.com)
 ![discord](https://dcbadge.vercel.app/api/shield/548850193202675713?style=flat)
 
-> [!IMPORTANT]
-> **I am currently on an indefinite break on Discord.**
-
 <!-- Projects -->
 <!-- ## <span id="projects"></span> 💎 Current Projects -->
 
@@ -103,7 +100,7 @@ jgs                                    _\_._\/_._/_                        \_\  
 <!-- ## <span id="needed-help"></span> 🌱 Current Needed Help
 
 - **Cosplaying Funds**: I've always really loved the craft of cosplaying, and I've tried some premade cosplays out already which can be checked out [here](https://ko-fi.com/fdnt7_/gallery)! That being said, I do have many more plans to cosplay other characters in the future!
-  
+
   It also feels very gender-affirming[^2] for me to wear traditionally feminine clothing! Please consider donating to me via the links [below](#support)! -->
 
 <!-- Contacts -->
