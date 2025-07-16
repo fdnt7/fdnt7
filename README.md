@@ -85,6 +85,9 @@ jgs                                    _\_._\/_._/_                        \_\  
 [![protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:fdnt@proton.com)
 ![discord](https://dcbadge.vercel.app/api/shield/548850193202675713?style=flat)
 
+> [!IMPORTANT]
+> **I am currently on a hiatus on Discord. I will return in April, 2026.**
+
 <!-- Projects -->
 <!-- ## <span id="projects"></span> 💎 Current Projects -->
 
