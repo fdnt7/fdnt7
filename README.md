@@ -50,7 +50,7 @@ jgs                                    _\_._\/_._/_                        \_\  
 ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=fdnt&theme=rose_pine&hide_border=true&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/593a8739-5ad7-44b8-9dd7-409d948fcb10.svg)](https://wakatime.com/@593a8739-5ad7-44b8-9dd7-409d948fcb10)
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+<!-- ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter) -->
 </div>
 
 <!-- About -->
